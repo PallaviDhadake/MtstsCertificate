@@ -1,0 +1,178 @@
+﻿/*=====JobNiti portal Admin=====*/
+/*------------------------------------
+	Fonts
+------------------------------------*/
+
+/*------------------------------------
+	Layout
+------------------------------------*/
+*{
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:"WeblySleek UI Light", Arial, Tahoma, Helvetica, sans-serif;
+	font-size:1em;
+}
+h1{font-family:WeblySleek UI Light, Arial;font-size:2em;color:#343434;line-height:1.5;margin-bottom:20px}
+h2{font-family:WeblySleek UI Light, Arial;font-size:1.5em;color:#0073a9;line-height:1.5;margin-bottom:20px}
+h2 span{display:block;font-size:0.7em;color:#656565}
+
+/* Page wrapper */
+body{background:#bec3c7}
+#page{margin:0 auto;}
+/* Wrapper */
+.mrgAuto{margin:0 auto !important}
+.wrap1140{width:1140px;}
+.bgWhite{background-color:#fff}
+
+/*Theme color*/
+.themeBlue{background:#c1e1ec}
+.themeColor{color:#0177fb}
+.bg-body{background:#f0f0f0}
+
+/*Control panel*/
+#control{width:100%;background:#bec3c7}
+#control h2{color:#2d3e50;font-size:1.5em;font-family:"WeblySleek UI Light", Tahoma;}
+
+
+#navBox{background-color:#2d3e50; width:100%; display:block; border-radius:5px 5px 0px 0px}
+.topNav{ list-style:none; margin:0; display:block; font-family:"WeblySleek UI Light", Tahoma; }
+.topNav li{ display:inline; position:relative; margin:0; padding:0;  }
+.topNav li a{ text-decoration:none; font-size:1em; font-weight:700; color:#fff; padding:10px 16px; margin:0; cursor:pointer}
+.topNav li a:hover{background-color:#2d3e50; color:#19bc9b }
+.act{background-color:#e5f3f7; color:#157efb; text-decoration:none; font-size:1em; font-weight:700;padding:10px 16px;}
+
+.topNav ul{ position:absolute; display:none; top:28px; left:0px; background-color:#c8e6ef }
+.topNav ul li{  display:block; width:200px  }
+.topNav ul li a{ padding:10px 16px; display:block; text-decoration:none; font-size:1em; font-weight:700; color:#0086c5; margin:0;}
+.topNav li:hover > ul{display:block}
+
+.topNav ul ul{ position:absolute; display:none; left:200px; top:0px; background-color:#c8e6ef }
+.topNav ul ul li{  display:block; width:200px  }
+.topNav ul ul li a{ padding:10px 16px; display:block; text-decoration:none; font-size:1em; font-weight:700; color:#0086c5; margin:0;}
+.topNav ul li:hover > ul{display:block}
+
+
+
+/*menu*/
+.ach{color:#fff; font-size:1em;text-decoration:none;font-family:"WeblySleek UI Light", Tahoma;display:block;line-height:1.9em;}
+.ach:hover{background-color:#029ad2}
+.Dashboard{background:url(../images/dashboard.png) no-repeat 10px center;padding:3px 5px 3px 33px;}
+.Jobboard{background:url(../images/jobboard.png) no-repeat 10px center;padding:3px 5px 3px 33px;}
+.Employers{background:url(../images/employer.png) no-repeat 10px center;padding:3px 5px 3px 33px;}
+.Jobseeker{background:url(../images/jobseeker.png) no-repeat 10px center;padding:3px 5px 3px 33px;}
+.Masters{background:url(../images/dashboard.png) no-repeat 10px center;padding:3px 5px 3px 33px;}
+.Reports{background:url(../images/dashboard.png) no-repeat 10px center;padding:3px 5px 3px 33px;}
+.Utility{background:url(../images/dashboard.png) no-repeat 10px center;padding:3px 5px 3px 33px;}
+/*Menu*/
+
+/*Form*/
+/*
+#myform{width:100%}
+#myform tr td{font-size:1em;line-height:0.6em;vertical-align:top;padding:3px 0px; font-size:12; color:#343434; margin: 2em 0em;}
+*/
+.form_table{width:100%}
+ .form_table tr td{font-size:1em;line-height:1em;vertical-align:top;padding:5px 0px; font-size:12; color:#343434;}
+
+.dsp-block{display:block}
+.redStar{font-family:arial, Helvetica, sans-serif;font-size:1.1em;font-weight:normal;text-align:left;color:red}
+.text-box{border:solid 1px #dddddd;color:#333333;font-size:0.9em;padding:0.3em;text-indent:0.3em;margin-left:-3px; resize:none;border-radius:3px }
+.dropdownlst{border:solid 1px #dddddd; background:#f7f7f6; color:#555555; font-size:0.9em; padding:0.3em; text-indent:3px; margin-left:-3px; border-radius:3px }
+.button{ background:#19bc9b;color:#fff;padding:0.3em 0.6em;cursor:pointer;font-size:0.9em; text-decoration:none;border-radius:3px}
+
+/*.button-gray{background:#e5e5e5;color:#777;padding:0.3em 0.6em;font-family:WeblySleek UI Light;font-size:1.1em;text-decoration:none;display:block}*/
+.button-gray{background:#e5e5e5;color:#777;padding:0.3em 0.6em;cursor:pointer;font-size:0.9em; text-decoration:none}
+.button-gray:hover{color:#19bc9b}
+
+/*GridView*/
+/* Mohsin*/
+.gvApp{border-color:#e5e5e5;border-style:solid;border-width:1px;font-family: Arial;width:100%;}
+.gvApp a { }
+.gvApp th{background-color:#b1d9d1;text-align:left;font-weight:bold;padding:0.8em; color:#2d3e50}
+.gvApp td{padding:0.6em 0.8em;}
+.row{background-color:#f8f8f8;}
+.alt{background-color:#ffffff;}
+.myColumn{font-weight:bold;color:#008dd2}
+.HideCol{ display:none}
+.gAnch { color: #19bc9b; text-decoration: none;}
+.anchor{text-decoration:none; color:#fff; background-color:#19bc9b; padding: 5px 10px; }
+.chkBox{ padding:10px }
+/*Footer*/
+#footer{background:#777777}
+.copy-right{font-size:0.9em;color:#fff}
+
+/*Loader*/
+.i_loader{ background:url(../images/ajax-loader.gif) no-repeat center center; height:31px; width:31px;visibility:hidden}
+
+/*Dashboard*/
+.col251{width:251px;float:left;display:inline}
+.dashTitle{font-family:WeblySleek UI Light, Arial;font-size:1.1em;color:#fff;text-align:center;margin-bottom:10px;padding:10px;background:#00aeef}
+.dashNav{list-style:none;}
+.dashNav li{display:block;position:relative}
+.dashNav li a{display:block;text-decoration:none;font-size:1em;font-family:Tahoma, Arial;color:#555;line-height:1em;padding-bottom:1em}
+.count{position:absolute;right:0;top:0;color:#fff;font-size:0.9em;background:#777777;padding:0.6em 0.4em;line-height:0.4em;}
+
+/*New Classes added by MohsEin*/
+/*Date 15/09/2015*/
+.fl_left{float:left}
+.fl_right{float:right}
+.clr_fl{clear:both}
+
+.editData{background-color:#e6db5b}
+
+.info, .success, .warning, .error {
+margin: 10px 0px;
+padding:12px;
+padding-left:36px !important;display:block
+}
+.info {
+    color: #00529B;
+    background: #BDE5F8 url(../images/icons/ico-info.png) no-repeat 12px center;
+}
+.success {
+    color: #4F8A10;
+    background: #DFF2BF url(../images/icons/ico-success.png) no-repeat 12px center;
+}
+.warning {
+    color: #9F6000;
+    background: #FEEFB3 url(../images/icons/ico-warn.png) no-repeat 12px center;
+}
+.error {
+    color: #D8000C;
+    background: #FFBABA url(../images/icons/ico-error.png) no-repeat 12px center;
+}
+
+
+.stWarn{height:16px; width:16px; background:url(../images/icons/ico-warn.png) no-repeat top;display:block}
+
+.pos_rel{position:relative !important}
+.pos_abs{position:absolute !important}
+
+
+.checkList{padding:5px 8px; background-color:#c1e1ec; color:#0177fb; display:inline-block; float:left; margin-right:5px; margin-bottom:5px; border-radius:3px; font-family:WeblySleek UI Light, Arial}
+
+/*Dashboard*/
+.col_1_4{width:17.4em; float:left; display:inline-block}
+.titleTxt{font-size:1.5em;font-weight:normal;margin-bottom:20px}
+.numText{font-size:2em;font-weight:bold;color:#0086c5;margin-bottom:20px}
+.txtCenter{text-align:center}
+.box_anch{text-decoration:none}
+
+.col_1_6{ width:190px; float:left; display:inline-block }
+
+.closeAnch{background:url(../images/icons/delete.png) no-repeat center center; display:block; height:20px; width:20px; position:absolute; top:5px; right:5px  }
+
+/* Pallavi css*/
+.PendAnch {
+    text-decoration: none;
+    color: #fff;
+    background-color: orange;
+    padding: 5px 10px;
+}
+
+.ApprovAnch {
+    text-decoration: none;
+    color: #fff;
+    background-color: green;
+    padding: 5px 10px;
+}

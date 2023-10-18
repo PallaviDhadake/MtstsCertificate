@@ -1,0 +1,842 @@
+05/04/2022 11:13 AM
+ASP.adminpanel_center_master_aspx
+btnDelete_Click
+An expression of non-boolean type specified in a context where a condition is expected, near 'CenterID2'.
+
+
+05/04/2022 11:36 AM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 11:36 AM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 11:50 AM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 11:54 AM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 12:39 PM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 12:42 PM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 12:42 PM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 12:44 PM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 12:47 PM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 12:51 PM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 12:54 PM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 12:58 PM
+ASP.adminpanel_center_master_aspx
+btnBlock_Click
+Invalid object name 'HospitalData'.
+
+
+05/04/2022 01:11 PM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 01:13 PM
+ASP.adminpanel_center_master_aspx
+Page_Load
+Incorrect syntax near '='.
+
+
+05/04/2022 02:26 PM
+ASP.default_aspx
+cmdSign_Click
+Cannot use a leading .. to exit above the top directory.
+
+
+05/04/2022 02:27 PM
+ASP.default_aspx
+cmdSign_Click
+Cannot use a leading .. to exit above the top directory.
+
+
+06/04/2022 02:03 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Could not find a part of the path 'I:\Websites\MtstsCertificate\upload\certificate\'.
+
+
+06/04/2022 02:05 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Could not find a part of the path 'I:\Websites\MtstsCertificate\upload\certificate\'.
+
+
+06/04/2022 02:13 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Could not find a part of the path 'I:\Websites\MtstsCertificate\upload\certificate\'.
+
+
+06/04/2022 02:47 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Could not find a part of the path 'I:\Websites\MtstsCertificate\upload\certificate\'.
+
+
+06/04/2022 02:51 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Could not find a part of the path 'I:\Websites\MtstsCertificate\upload\certificate\'.
+
+
+06/04/2022 03:05 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Input string was not in a correct format.
+
+
+06/04/2022 03:06 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Index was outside the bounds of the array.
+
+
+06/04/2022 03:07 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Index was outside the bounds of the array.
+
+
+06/04/2022 03:07 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Index was outside the bounds of the array.
+
+
+06/04/2022 03:14 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Index was outside the bounds of the array.
+
+
+06/04/2022 03:20 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+String was not recognized as a valid DateTime.
+
+
+06/04/2022 03:23 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+String was not recognized as a valid DateTime.
+
+
+06/04/2022 03:25 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Index was outside the bounds of the array.
+
+
+06/04/2022 03:28 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Index was outside the bounds of the array.
+
+
+06/04/2022 03:32 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+String was not recognized as a valid DateTime.
+
+
+06/04/2022 03:35 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+String was not recognized as a valid DateTime.
+
+
+06/04/2022 03:46 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+String was not recognized as a valid DateTime.
+
+
+06/04/2022 03:49 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+String was not recognized as a valid DateTime.
+
+
+06/04/2022 03:51 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+String or binary data would be truncated.
+The statement has been terminated.
+
+
+06/04/2022 04:00 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+String or binary data would be truncated.
+The statement has been terminated.
+
+
+06/04/2022 04:01 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+String or binary data would be truncated.
+The statement has been terminated.
+
+
+06/04/2022 04:02 PM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+String or binary data would be truncated.
+The statement has been terminated.
+
+
+07/04/2022 12:25 PM
+ASP.adminpanel_marksheet_list_aspx
+btnSubmit_Click
+Input string was not in a correct format.
+
+
+07/04/2022 12:28 PM
+ASP.adminpanel_marksheet_list_aspx
+btnSubmit_Click
+Input string was not in a correct format.
+
+
+07/04/2022 12:29 PM
+ASP.adminpanel_marksheet_list_aspx
+btnSubmit_Click
+Invalid column name 'MarkCenterNo'.
+Invalid column name 'MTSTS'.
+Invalid column name 'ATC'.
+Invalid column name 'MarkCertNumber'.
+
+
+07/04/2022 12:33 PM
+ASP.adminpanel_marksheet_list_aspx
+btnSubmit_Click
+Invalid column name 'MarkCenterNo'.
+Invalid column name 'MTSTS'.
+Invalid column name 'ATC'.
+Invalid column name 'MarkCertNumber'.
+
+
+07/04/2022 12:37 PM
+ASP.adminpanel_marksheet_list_aspx
+btnSubmit_Click
+Invalid column name 'MTSTS'.
+Invalid column name 'ATC'.
+
+
+07/04/2022 12:42 PM
+ASP.adminpanel_marksheet_list_aspx
+btnSubmit_Click
+Invalid column name 'MTSTS'.
+Invalid column name 'ATC'.
+
+
+07/04/2022 12:43 PM
+ASP.adminpanel_marksheet_list_aspx
+btnSubmit_Click
+String or binary data would be truncated.
+The statement has been terminated.
+
+
+11/04/2022 11:14 AM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Invalid object name 'CertID'.
+
+
+11/04/2022 11:17 AM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+Invalid object name 'CertID'.
+
+
+11/04/2022 11:32 AM
+ASP.adminpanel_marksheet_list_aspx
+btnSubmit_Click
+Invalid object name 'CertID'.
+
+
+11/04/2022 11:34 AM
+ASP.adminpanel_marksheet_list_aspx
+btnSubmit_Click
+Invalid object name 'MarkID'.
+
+
+11/04/2022 11:47 AM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+The process cannot access the file 'I:\Websites\MtstsCertificate\upload\certificate\mtsts-certificates.csv' because it is being used by another process.
+
+
+11/04/2022 11:49 AM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+The process cannot access the file 'I:\Websites\MtstsCertificate\upload\certificate\mtsts-certificates.csv' because it is being used by another process.
+
+
+11/04/2022 11:50 AM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+The process cannot access the file 'I:\Websites\MtstsCertificate\upload\certificate\mtsts-certificates.csv' because it is being used by another process.
+
+
+11/04/2022 11:53 AM
+ASP.adminpanel_certificate_list_aspx
+btnSubmit_Click
+The process cannot access the file 'I:\Websites\MtstsCertificate\upload\certificate\mtsts-certificates.csv' because it is being used by another process.
+
+
+11/04/2022 04:05 PM
+ASP.adminpanel_marksheet_list_aspx
+btnSubmit_Click
+Incorrect syntax near ','.
+
+
+13/04/2022 10:15 AM
+ASP.center_marksheet_list_aspx
+FillGrid
+A field or property with the name 'MarkID' was not found on the selected data source.
+
+
+13/04/2022 10:18 AM
+ASP.center_marksheet_list_aspx
+FillGrid
+A field or property with the name 'MarkID' was not found on the selected data source.
+
+
+13/04/2022 10:18 AM
+ASP.center_marksheet_list_aspx
+FillGrid
+A field or property with the name 'MarkID' was not found on the selected data source.
+
+
+13/04/2022 10:18 AM
+ASP.center_marksheet_list_aspx
+FillGrid
+A field or property with the name 'ReqCount' was not found on the selected data source.
+
+
+13/04/2022 10:47 AM
+ASP.center_marksheet_list_aspx
+FillGrid
+A field or property with the name 'MarkID' was not found on the selected data source.
+
+
+13/04/2022 12:35 PM
+ASP.center_marksheet_all_details_aspx
+GetMarkData
+Column 'CertAvgMarks' does not belong to table .
+
+
+13/04/2022 12:35 PM
+ASP.center_marksheet_all_details_aspx
+GetMarkData
+Column 'CertAvgMarks' does not belong to table .
+
+
+27/04/2022 11:14 AM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 11:16 AM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 11:19 AM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 11:21 AM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 11:24 AM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 11:28 AM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 11:34 AM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 11:39 AM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 11:40 AM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 11:45 AM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 12:02 PM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file '.jpg'.
+
+
+27/04/2022 12:04 PM
+ASP.adminpanel_center_master_aspx
+btnSave_Click
+Could not find file 'c:\program files (x86)\iis express\13098_pink-flowers-bouquet-on-a-blue-background-hd-wallpaper.jpg'.
+
+
+27/04/2022 03:54 PM
+ASP.adminpanel_add_stud_photos_aspx
+ImageUploadProcess1
+Could not find a part of the path 'I:\Websites\MtstsCertificate\upload\student\sign\'.
+
+
+27/04/2022 03:57 PM
+ASP.adminpanel_add_stud_photos_aspx
+ImageUploadProcess1
+Could not find a part of the path 'I:\Websites\MtstsCertificate\upload\student\sign\'.
+
+
+27/04/2022 04:30 PM
+ASP.adminpanel_add_stud_photos_aspx
+btnSave_Click
+Incorrect syntax near '='.
+
+
+29/04/2022 12:43 PM
+ASP.adminpanel_certificate_stud_list_aspx
+FillGrid
+Invalid column name 'CenterStatus'.
+
+
+29/04/2022 12:50 PM
+ASP.adminpanel_certificate_stud_list_aspx
+FillGrid
+Invalid column name 'CenterStatus'.
+
+
+07/05/2022 11:43 AM
+ASP.default_aspx
+cmdSign_Click
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+
+02/06/2022 11:37 AM
+ASP.verifycertificate_aspx
+FillGrid
+A field or property with the name 'CenterID' was not found on the selected data source.
+
+
+09/06/2022 12:00 PM
+ASP.verifycertificate_aspx
+GetData
+The entry 'MtstsCertificate' has already been added. (F:\Websites\MtstsCertificate\web.config line 24)
+
+
+09/06/2022 12:17 PM
+ASP.verifycertificate_aspx
+GetData
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 12:51 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 12:53 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 12:58 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 12:58 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 02:48 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 02:48 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 02:54 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 02:54 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:08 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:09 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:09 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:09 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:09 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:09 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:09 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:09 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:22 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Column 'CertNumber' does not belong to table .
+
+
+09/06/2022 03:29 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:30 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:32 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:32 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:37 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:39 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:40 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:44 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:47 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:47 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:50 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:50 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:56 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:56 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 03:58 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 04:01 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 04:01 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 04:01 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 04:20 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 04:23 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 04:23 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 04:25 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+09/06/2022 04:25 PM
+ASP.verifycertificate_aspx
+btnverify_Click
+Invalid object name 'Studentsdata'.
+
+
+16/11/2022 12:47 PM
+ASP.default_aspx
+cmdSign_Click
+Cannot open database "MtstsCertificate" requested by the login. The login failed.
+Login failed for user 'DESKTOP-HTQJ6BN\dc'.
+
+
+05/07/2023 03:11 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+05/07/2023 03:39 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+05/07/2023 03:40 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+05/07/2023 03:47 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'CertificateData'.
+
+
+05/07/2023 03:49 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+05/07/2023 03:49 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+05/07/2023 03:51 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+17/10/2023 12:04 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+17/10/2023 12:04 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+17/10/2023 12:05 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+17/10/2023 12:05 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+17/10/2023 12:09 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+17/10/2023 12:09 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
+17/10/2023 12:10 PM
+ASP.verifycertificate_aspx
+GetOldCertificates
+Invalid object name 'Studentsdata'.
+
+
